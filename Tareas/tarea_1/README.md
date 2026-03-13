@@ -25,7 +25,7 @@ x_B ≥ 2
 
 
 
-x_A ≥ 0,\quad x_B ≥ 0
+x_A ≥ 0, x_B ≥ 0
 
 
 ## Imagen del desarrollo
@@ -70,9 +70,9 @@ xA, xB, xC ≥ 0
 
 ## **Que estoy decidiendo?**
 
-- \(x_A\): número de juegos Indie a comprar  
-- \(x_B\): número de juegos AA a comprar  
-- \(x_C\): número de juegos AAA a comprar  
+- \(x_A\): numero de juegos Indie a comprar  
+- \(x_B\): numero de juegos AA a comprar  
+- \(x_C\): numero de juegos AAA a comprar  
 
 ---
 
@@ -81,7 +81,7 @@ xA, xB, xC ≥ 0
 Maximizar las horas totales de entretenimiento:
 
 
-\max Z = 20x_A + 35x_B + 50x_C
+max Z = 20x_A + 35x_B + 50x_C
 
 
 ---
@@ -116,4 +116,4 @@ x_A, x_B, x_C ≥ 0
 
 ## Desarrollo a mano
 
-![Planteamiento del problema](problema3.jpg)
+![Planteamiento del problema](problema_3.jpg)
