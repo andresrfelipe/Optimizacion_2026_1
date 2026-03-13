@@ -2,33 +2,118 @@
 
 ## Problema 1
 
-### Planteamiento del modelo
 
-**Variables de decision**
+**Que estoy decidiendo?**
 - x_A: panes producidos al dia
 - x_B: tortas producidas al dia
 
-**Funcion objetivo**
+**Que quiero lograr?**
 maximizar la ganancia
 
-\[
+
 Z = 2(x_A) + 6(x_B)
-\]
 
-**Restricciones**
 
-\[
+**Que me limita?**
+
+
 1(x_A) + 3(x_B) \leq 18
-\]
 
-\[
+
+
 x_B \geq 2
-\]
 
-\[
+
+
 x_A \geq 0,\quad x_B \geq 0
-\]
+
 
 ## Imagen del desarrollo
 
 ![Desarrollo a mano](problema_1.jpg)
+
+
+## Problema 2 - Sistemas
+
+### **Que estoy decidiendo?**
+
+- xA: peticiones en M1 por minuto
+- xB: peticiones en M2 por minuto
+- xC: peticiones en M3 por minuto
+
+### **Que quiero lograr?**
+
+Minimizar el costo total:
+
+min Z = xA(0.020) + xB(0.015) + xC(0.030)
+
+### **Que me limita?**
+
+xA + xB + xC = 500
+
+xA ≤ 200  
+xB ≤ 250  
+xC ≤ 150  
+
+xA, xB, xC ≥ 0
+
+## Imagen del desarrollo
+
+![Desarrollo a mano](problema_2.jpg)
+
+
+
+
+
+## Problema 3 (Libre)
+
+
+## **Que estoy decidiendo?**
+
+- \(x_A\): número de juegos Indie a comprar  
+- \(x_B\): número de juegos AA a comprar  
+- \(x_C\): número de juegos AAA a comprar  
+
+---
+
+## **Que quiero lograr?**
+
+Maximizar las horas totales de entretenimiento:
+
+
+\max Z = 20x_A + 35x_B + 50x_C
+
+
+---
+
+## **Que me limita?**
+
+
+
+
+x_C \leq 2
+
+
+
+
+
+x_A \geq 1
+
+
+
+
+
+10x_A + 40x_B + 80x_C \leq 240
+
+
+
+
+
+x_A, x_B, x_C \geq 0
+
+
+---
+
+## Desarrollo a mano
+
+![Planteamiento del problema](problema3.jpg)
