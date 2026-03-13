@@ -17,15 +17,15 @@ Z = 2(x_A) + 6(x_B)
 **Que me limita?**
 
 
-1(x_A) + 3(x_B) \leq 18
+1(x_A) + 3(x_B) ≤ 18
 
 
 
-x_B \geq 2
+x_B ≥ 2
 
 
 
-x_A \geq 0,\quad x_B \geq 0
+x_A ≥ 0,\quad x_B ≥ 0
 
 
 ## Imagen del desarrollo
@@ -91,25 +91,25 @@ Maximizar las horas totales de entretenimiento:
 
 
 
-x_C \leq 2
+x_C ≤ 2
 
 
 
 
 
-x_A \geq 1
+x_A ≥ 1
 
 
 
 
 
-10x_A + 40x_B + 80x_C \leq 240
+10x_A + 40x_B + 80x_C ≤ 240
 
 
 
 
 
-x_A, x_B, x_C \geq 0
+x_A, x_B, x_C ≥ 0
 
 
 ---
